@@ -1,0 +1,4 @@
+﻿  Class_10.cpp
+C:\Users\Admin\source\repos\Class_10_2\Class_10.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\source\repos\Class_10_2\Class_10.cpp(21,10): warning C4101: tmp_2: неиспользованная локальная переменная
+  Class_10_2.vcxproj -> C:\Users\Admin\source\repos\Class_10_2\x64\Debug\Class_10_2.exe
